@@ -24,4 +24,13 @@ You can download this extension here for $0.99
 
 Alternatively, if you don't feel like giving me money (BOOOOOO), you can clone this and install this from source into Chrome yourself
 
+# Privacy Policy 
+
+This extension does not collect, store, or transmit any personal data.
+All processing happens locally in your browser. The extension only modifies the layout of Amazon search pages that you visit.
+No information is sent to any external servers, and no analytics or tracking of any kind are used.
+Your usage data, browsing activity, and preferences remain entirely private and under your control.
+
+If you have questions about this extension, you can contact the developer directly through the Chrome Web Store listing or literally read the source code here.
+
 
