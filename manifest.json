@@ -1,0 +1,24 @@
+{
+  "manifest_version": 3,
+  "name": "Desponsorize",
+  "version": "1.1.0",
+  "description": "Gray, hide, or push Sponsored Amazon results to the bottom.",
+  "permissions": ["storage"],
+  "action": {
+    "default_title": "Desponsorize",
+    "default_popup": "popup.html"
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "https://www.amazon.com/s?*",
+        "https://smile.amazon.com/s?*",
+        "https://www.amazon.*/*/s?*",
+        "https://www.amazon.*/*/gp/search*"
+      ],
+      "js": ["content.js"],
+      "run_at": "document_idle"
+    }
+  ]
+}
+

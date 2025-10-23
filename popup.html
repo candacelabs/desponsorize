@@ -1,0 +1,28 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <style>
+      body { font: 14px/1.4 system-ui, sans-serif; margin: 10px; min-width: 220px; }
+      .mode { display: flex; gap: 8px; margin-top: 6px; flex-wrap: wrap; }
+      button {
+        padding: 6px 10px; border-radius: 8px; border: 1px solid #ddd; cursor: pointer;
+        background: #fafafa;
+      }
+      button.active { border-color: #333; background: #eee; }
+      small { color: #666; }
+    </style>
+  </head>
+  <body>
+    <strong>Sponsored results mode</strong>
+    <div class="mode">
+      <button data-mode="normal">Normal</button>
+      <button data-mode="gray">Gray</button>
+      <button data-mode="push">Push to bottom</button>
+      <button data-mode="hide">Hide</button>
+    </div>
+    <p><small>Changes apply instantly on open Amazon tabs.</small></p>
+    <script src="popup.js"></script>
+  </body>
+</html>
+
