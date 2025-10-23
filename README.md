@@ -18,7 +18,7 @@ Big tech's dark pattern of making sponsored results look just like ACTUAL search
 
 ## Download
 
-You can download this extension here for $0.99 
+I have submitted this to the chrome webstore. Chrome webstore DL link pending. If you find it useful, please consider giving me some money (like $1 or something or whatever the minimum amount is via the GitHub payment option thing).
 
 ## Install From Source Yourself
 
