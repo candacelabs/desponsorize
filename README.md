@@ -2,6 +2,16 @@
 
 Chrome extension to suppress "Sponsored" results on Amazon.com
 
+## Example
+
+### With the "Gray Out" button
+
+<img width="916" height="825" alt="image" src="https://github.com/user-attachments/assets/b1bc0a62-b540-40e7-8f87-c02d5e7e8423" />
+
+### Other options
+
+<img width="235" height="165" alt="image" src="https://github.com/user-attachments/assets/a99d2023-3b83-40fa-8489-aee6329be131" />
+
 ## Motivation
 
 Big tech's dark pattern of making sponsored results look just like ACTUAL search results make all of our lives unilaterally worse. This just undoes that.
